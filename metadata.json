@@ -1,0 +1,6 @@
+{
+  "name": "UNI·MATE",
+  "description": "The personal operating system for university. Your university, organized around you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
